@@ -1,0 +1,6 @@
+﻿  Arme.cpp
+  Goblin.cpp
+  main.cpp
+c:\users\1930149\source\repos\project01\project01\main.cpp(9): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  project01.vcxproj -> C:\Users\1930149\source\repos\project01\Debug\project01.exe

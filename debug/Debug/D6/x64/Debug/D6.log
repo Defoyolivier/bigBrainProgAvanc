@@ -1,0 +1,10 @@
+﻿  ClassA.cpp
+c:\users\1930149\desktop\bigbrainprog\debug\debug\d6\classb.h(7): error C3646: 'm_classA': unknown override specifier
+c:\users\1930149\desktop\bigbrainprog\debug\debug\d6\classb.h(7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  ClassB.cpp
+c:\users\1930149\desktop\bigbrainprog\debug\debug\d6\classa.h(7): error C3646: 'm_classB': unknown override specifier
+c:\users\1930149\desktop\bigbrainprog\debug\debug\d6\classa.h(7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  Source.cpp
+c:\users\1930149\desktop\bigbrainprog\debug\debug\d6\classb.h(7): error C3646: 'm_classA': unknown override specifier
+c:\users\1930149\desktop\bigbrainprog\debug\debug\d6\classb.h(7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  Generating Code...

@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\1930149\desktop\bigbrainprog\debug\debug\d7\source.cpp(7): warning C4717: 'fib': recursive on all control paths, function will cause runtime stack overflow
+  D7.vcxproj -> C:\Users\1930149\Desktop\BigBrainProg\debug\Debug\D7\x64\Debug\D7.exe

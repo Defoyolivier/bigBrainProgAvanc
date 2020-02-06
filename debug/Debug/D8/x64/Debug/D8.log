@@ -1,0 +1,5 @@
+﻿  ClassA.cpp
+  Source.cpp
+  Generating Code...
+Source.obj : error LNK2019: unresolved external symbol "public: int __cdecl ClassA::Mul(int,int)" (?Mul@ClassA@@QEAAHHH@Z) referenced in function main
+C:\Users\1930149\Desktop\BigBrainProg\debug\Debug\D8\x64\Debug\D8.exe : fatal error LNK1120: 1 unresolved externals

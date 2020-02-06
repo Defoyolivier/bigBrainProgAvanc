@@ -1,0 +1,6 @@
+d4. un pointeur null ne peux pas prendre un valeur
+d5. out of range, essaye d'avoir acces a une valeur qui n'existe pas, erreur logique
+d6. include classe A dans la classe B et l'inverse
+d7. la fonction fib s'appelle elle-meme sans jamais s'arreter. erreur execution/logique
+d8. la fonction mul n'est pas dans le .cpp
+d9. appelle le .h 2 fois//division par 0 avec la variables i

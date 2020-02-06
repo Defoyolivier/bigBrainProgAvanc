@@ -1,0 +1,8 @@
+erreur-
+
+1.syntaxe
+2.sémantique
+3.compillation
+4.logique
+5.execution au run-time
+6.
